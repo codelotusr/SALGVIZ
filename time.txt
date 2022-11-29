@@ -1,0 +1,235 @@
+QUICKSORT USING RULE OF THREE
+Normally distributed random vector
+Vector size: 2500
+First vector quicksort using rule of three elapsed time: 0.0001693s
+First vector quicksort using rule of three elapsed time: 0.0001561s
+First vector quicksort using rule of three elapsed time: 0.0001569s
+First vector quicksort using rule of three elapsed time: 0.0001607s
+First vector quicksort using rule of three elapsed time: 0.0001679s
+First vector quicksort using rule of three elapsed time: 0.000169s
+First vector quicksort using rule of three elapsed time: 0.0001648s
+First vector quicksort using rule of three elapsed time: 0.0001564s
+First vector quicksort using rule of three elapsed time: 0.000159s
+First vector quicksort using rule of three elapsed time: 0.0001682s
+Average time: 0.00016283s
+Vector size: 5000
+Second vector quicksort using rule of three elapsed time: 0.0003173s
+Second vector quicksort using rule of three elapsed time: 0.000403s
+Second vector quicksort using rule of three elapsed time: 0.0003258s
+Second vector quicksort using rule of three elapsed time: 0.0003618s
+Second vector quicksort using rule of three elapsed time: 0.0003275s
+Second vector quicksort using rule of three elapsed time: 0.0004776s
+Second vector quicksort using rule of three elapsed time: 0.0003411s
+Second vector quicksort using rule of three elapsed time: 0.0003538s
+Second vector quicksort using rule of three elapsed time: 0.0003115s
+Second vector quicksort using rule of three elapsed time: 0.0003365s
+Average time: 0.00035559s
+Vector size: 7777
+Third vector quicksort using rule of three elapsed time: 0.0005201s
+Third vector quicksort using rule of three elapsed time: 0.0005405s
+Third vector quicksort using rule of three elapsed time: 0.0005172s
+Third vector quicksort using rule of three elapsed time: 0.0005488s
+Third vector quicksort using rule of three elapsed time: 0.0005422s
+Third vector quicksort using rule of three elapsed time: 0.0005312s
+Third vector quicksort using rule of three elapsed time: 0.0005088s
+Third vector quicksort using rule of three elapsed time: 0.0005277s
+Third vector quicksort using rule of three elapsed time: 0.0005236s
+Third vector quicksort using rule of three elapsed time: 0.0005308s
+Average time: 0.00052909s
+Vector size: 20001
+Fourth vector quicksort using rule of three elapsed time: 0.0014533s
+Fourth vector quicksort using rule of three elapsed time: 0.0014306s
+Fourth vector quicksort using rule of three elapsed time: 0.0014266s
+Fourth vector quicksort using rule of three elapsed time: 0.0014289s
+Fourth vector quicksort using rule of three elapsed time: 0.001425s
+Fourth vector quicksort using rule of three elapsed time: 0.0014194s
+Fourth vector quicksort using rule of three elapsed time: 0.0014402s
+Fourth vector quicksort using rule of three elapsed time: 0.0014063s
+Fourth vector quicksort using rule of three elapsed time: 0.0013979s
+Fourth vector quicksort using rule of three elapsed time: 0.0014389s
+Average time: 0.00142671s
+Vector size: 496281
+Fifth vector quicksort using rule of three elapsed time: 0.0407049s
+Fifth vector quicksort using rule of three elapsed time: 0.0397438s
+Fifth vector quicksort using rule of three elapsed time: 0.040318s
+Fifth vector quicksort using rule of three elapsed time: 0.0403025s
+Fifth vector quicksort using rule of three elapsed time: 0.0403819s
+Fifth vector quicksort using rule of three elapsed time: 0.0406111s
+Fifth vector quicksort using rule of three elapsed time: 0.0402691s
+Fifth vector quicksort using rule of three elapsed time: 0.0404583s
+Fifth vector quicksort using rule of three elapsed time: 0.040394s
+Fifth vector quicksort using rule of three elapsed time: 0.0402008s
+Average time: 0.0403384s
+TOTAL AVERAGE TIME: 0.00856253s
+Descendingly distributed random vector
+Vector size: 2500
+First vector quicksort using rule of three elapsed time: 7.56e-05s
+First vector quicksort using rule of three elapsed time: 8.3e-05s
+First vector quicksort using rule of three elapsed time: 7.98e-05s
+First vector quicksort using rule of three elapsed time: 7.94e-05s
+First vector quicksort using rule of three elapsed time: 7.44e-05s
+First vector quicksort using rule of three elapsed time: 7.95e-05s
+First vector quicksort using rule of three elapsed time: 8.82e-05s
+First vector quicksort using rule of three elapsed time: 8.52e-05s
+First vector quicksort using rule of three elapsed time: 8.78e-05s
+First vector quicksort using rule of three elapsed time: 7.62e-05s
+Vector size: 5000
+Second vector quicksort using rule of three elapsed time: 0.0001637s
+Second vector quicksort using rule of three elapsed time: 0.0001694s
+Second vector quicksort using rule of three elapsed time: 0.0001737s
+Second vector quicksort using rule of three elapsed time: 0.000166s
+Second vector quicksort using rule of three elapsed time: 0.0001803s
+Second vector quicksort using rule of three elapsed time: 0.0001545s
+Second vector quicksort using rule of three elapsed time: 0.0001713s
+Second vector quicksort using rule of three elapsed time: 0.0001628s
+Second vector quicksort using rule of three elapsed time: 0.0001574s
+Second vector quicksort using rule of three elapsed time: 0.0001758s
+Vector size: 7777
+Third vector quicksort using rule of three elapsed time: 0.0002611s
+Third vector quicksort using rule of three elapsed time: 0.000278s
+Third vector quicksort using rule of three elapsed time: 0.0002769s
+Third vector quicksort using rule of three elapsed time: 0.0002742s
+Third vector quicksort using rule of three elapsed time: 0.0002753s
+Third vector quicksort using rule of three elapsed time: 0.0002742s
+Third vector quicksort using rule of three elapsed time: 0.0002811s
+Third vector quicksort using rule of three elapsed time: 0.0002752s
+Third vector quicksort using rule of three elapsed time: 0.0002652s
+Third vector quicksort using rule of three elapsed time: 0.000298s
+Vector size: 20001
+Fourth vector quicksort using rule of three elapsed time: 0.0007461s
+Fourth vector quicksort using rule of three elapsed time: 0.0007313s
+Fourth vector quicksort using rule of three elapsed time: 0.0007292s
+Fourth vector quicksort using rule of three elapsed time: 0.0007302s
+Fourth vector quicksort using rule of three elapsed time: 0.0007428s
+Fourth vector quicksort using rule of three elapsed time: 0.0006769s
+Fourth vector quicksort using rule of three elapsed time: 0.0007591s
+Fourth vector quicksort using rule of three elapsed time: 0.0007386s
+Fourth vector quicksort using rule of three elapsed time: 0.0007023s
+Fourth vector quicksort using rule of three elapsed time: 0.0007532s
+Vector size: 496281
+Fifth vector quicksort using rule of three elapsed time: 0.0229724s
+Fifth vector quicksort using rule of three elapsed time: 0.0246101s
+Fifth vector quicksort using rule of three elapsed time: 0.0248155s
+Fifth vector quicksort using rule of three elapsed time: 0.0237728s
+Fifth vector quicksort using rule of three elapsed time: 0.024984s
+Fifth vector quicksort using rule of three elapsed time: 0.0233926s
+Fifth vector quicksort using rule of three elapsed time: 0.0239997s
+Fifth vector quicksort using rule of three elapsed time: 0.0240013s
+Fifth vector quicksort using rule of three elapsed time: 0.0237514s
+Fifth vector quicksort using rule of three elapsed time: 0.0242193s
+
+
+SHELL SORT USING SEDGEWICKS GAPS
+Normally distributed random vector
+Vector size: 2500
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002868s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002822s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002953s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002771s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002957s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.000284s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002906s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.000285s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002724s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0002862s
+Vector size: 5000
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0006617s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0006563s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0006511s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.000627s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.000669s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0007141s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0006322s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0006269s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0006368s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0006353s
+Vector size: 7777
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009253s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009671s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009448s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009457s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009647s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009666s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009619s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009265s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009214s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0009616s
+Vector size: 20001
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0027s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0026087s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0027503s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0027494s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0027769s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0026109s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0026331s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0026834s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0026642s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.002646s
+Vector size: 496281
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0800615s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0790291s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0796848s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0787207s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0788251s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0793833s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0779437s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0791362s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0855738s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0788911s
+
+Descendingly distributed random vector
+Vector size: 2500
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001265s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001242s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001209s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001272s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001244s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001248s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001484s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001447s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001554s
+First vector shellsort using Sedgewicks gaps elapsed time: 0.0001526s
+Vector size: 5000
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0002482s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0002209s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0002568s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0002393s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0001985s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0002017s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0001957s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.000198s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0002219s
+Second vector shellsort using Sedgewicks gaps elapsed time: 0.0002029s
+Vector size: 7777
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004303s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004221s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004144s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004197s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004168s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004131s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.000441s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0003994s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004172s
+Third vector shellsort using Sedgewicks gaps elapsed time: 0.0004283s
+Vector size: 20001
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010196s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0009941s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010214s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010146s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010011s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.00105s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010503s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010042s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010475s
+Fourth vector shellsort using Sedgewicks gaps elapsed time: 0.0010559s
+Vector size: 496281
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0239402s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0255121s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0237372s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0239922s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.024209s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.022788s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0233114s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0250641s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0239356s
+Fifth vector shellsort using Sedgewicks gaps elapsed time: 0.0242691s
