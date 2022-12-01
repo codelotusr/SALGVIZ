@@ -10,7 +10,7 @@
 #include <functional>
 #include <string>
 
-const unsigned int s1{2500}, s2{5000}, s3{7777}, s4{20001}, s5{496281};
+const unsigned int s1{100000}, s2{200000}, s3{300000}, s4{400000}, s5{500000};
 const unsigned int testAmount{10};
 const unsigned int testAmountDescending{10};
 class Timer
@@ -40,6 +40,7 @@ int medianOfThree(std::vector<int> &v, int left, int right);
 int partition(std::vector<int> &v, int left, int right);
 void quickSort(std::vector<int> &v, int left, int right);
 void quickSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector);
+std::vector<int> sedgewickSequence(const unsigned int size);
 void shellSort(std::vector<int> &v);
 void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector);
 
@@ -132,19 +133,33 @@ void quickSortTest(std::vector<int> v, std::ofstream& out, const unsigned int si
     }
 }
 
-void shellSort(std::vector<int> &v) {
-    int n = v.size();
-    int h = 1;
-    while (h < n / 9) {
-        h = 3 * h + 1;
-    }
-    while (h >= 1) {
-        for (int i = h; i < n; i++) {
-            for (int j = i; j >= h && v[j] < v[j - h]; j -= h) {
-                std::swap(v[j], v[j - h]);
-            }
+std::vector<int> sedgewickSequence(const unsigned int n) {
+    std::vector<int> v;
+    int k{0};
+    int gap{0};
+    while (gap < n) {
+        if (k % 2 == 0) {
+            gap = 9 * (pow(2, k) - pow(2, k / 2)) + 1;
+        } else {
+            gap = 8 * pow(2, k) - 6 * pow(2, (k + 1) / 2) + 1;
         }
-        h /= 3;
+        v.push_back(gap);
+        k++;
+    }
+    return v;
+}
+
+void shellSort(std::vector<int> &v) {
+    std::vector<int> gaps = sedgewickSequence(v.size());
+    for (int i = gaps.size() - 1; i >= 0; i--) {
+        for (int j = gaps[i]; j < v.size(); j++) {
+            int temp = v[j];
+            int k;
+            for (k = j; k >= gaps[i] && v[k - gaps[i]] > temp; k -= gaps[i]) {
+                v[k] = v[k - gaps[i]];
+            }
+            v[k] = temp;
+        }
     }
 }
 
@@ -246,6 +261,10 @@ int main() {
     file << "\nVector size: " << s5 << std::endl;
     shellSortTest(v5, file, testAmountDescending, t, "Fifth");
     v1.clear(); v2.clear(); v3.clear(); v4.clear(); v5.clear();
+    vv.clear(); dv.clear();
+    std::vector<std::vector<int>>().swap(vv);
+    std::vector<std::vector<int>>().swap(dv);
+    std::vector<int>().swap(v1); std::vector<int>().swap(v2); std::vector<int>().swap(v3); std::vector<int>().swap(v4); std::vector<int>().swap(v5);
     file.close();
     std::cout << "Press 'ENTER' to exit" << std::endl;
     std::cin.get();
