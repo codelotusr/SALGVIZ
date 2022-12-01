@@ -10,7 +10,7 @@
 #include <functional>
 #include <string>
 
-const unsigned int s1{100000}, s2{200000}, s3{300000}, s4{400000}, s5{500000};
+const unsigned int s1{100000000}, s2{250000000}, s3{500000000}, s4{750000000}, s5{1000000000};
 const unsigned int testAmount{10};
 const unsigned int testAmountDescending{10};
 class Timer
