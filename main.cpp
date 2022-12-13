@@ -50,8 +50,8 @@ void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const un
 
 std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
     std::vector<std::vector<std::vector<int>>> vvv;
-    std::default_random_engine generator;
-    std::mt19937_64 gen(generator());
+    std::default_random_engine gen;
+    std::mt19937_64 generator(gen());
     std::uniform_int_distribution<int> distribution(1,1000000);
     auto generate = std::bind ( distribution, generator );
     std::vector<std::vector<int>> vv1; std::vector<std::vector<int>> vv2; std::vector<std::vector<int>> vv3; std::vector<std::vector<int>> vv4; std::vector<std::vector<int>> vv5;
