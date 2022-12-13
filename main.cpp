@@ -51,6 +51,7 @@ void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const un
 std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
     std::vector<std::vector<std::vector<int>>> vvv;
     std::default_random_engine generator;
+    std::mt19937_64 gen(generator());
     std::uniform_int_distribution<int> distribution(1,1000000);
     auto generate = std::bind ( distribution, generator );
     std::vector<std::vector<int>> vv1; std::vector<std::vector<int>> vv2; std::vector<std::vector<int>> vv3; std::vector<std::vector<int>> vv4; std::vector<std::vector<int>> vv5;
@@ -59,23 +60,18 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
         for (int j = 0; j < s1; j++) {
             v1.push_back(generate());
         }
-        std::cout << "Set 1.1 done.\n";
         for (int j = 0; j < s1; j++) {
             v2.push_back(generate());
         }
-        std::cout << "Set 1.2 done.\n";
         for (int j = 0; j < s1; j++) {
             v3.push_back(generate());
         }
-        std::cout << "Set 1.3 done.\n";
         for (int j = 0; j < s1; j++) {
             v4.push_back(generate());
         }
-        std::cout << "Set 1.4 done.\n";
         for (int j = 0; j < s1; j++) {
             v5.push_back(generate());
         }
-        std::cout << "Set 1.5 done.\n";
         vv1.push_back(v1);
         vv1.push_back(v2);
         vv1.push_back(v3);
@@ -90,23 +86,18 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
         for (int j = 0; j < s2; j++) {
             v1.push_back(generate());
         }
-        std::cout << "Set 2.1 done.\n";
         for (int j = 0; j < s2; j++) {
             v2.push_back(generate());
         }
-        std::cout << "Set 2.2 done.\n";
         for (int j = 0; j < s2; j++) {
             v3.push_back(generate());
         }
-        std::cout << "Set 2.3 done.\n";
         for (int j = 0; j < s2; j++) {
             v4.push_back(generate());
         }
-        std::cout << "Set 2.4 done.\n";
         for (int j = 0; j < s2; j++) {
             v5.push_back(generate());
         }
-        std::cout << "Set 2.5 done.\n";
         vv2.push_back(v1);
         vv2.push_back(v2);
         vv2.push_back(v3);
@@ -121,23 +112,18 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
         for (int j = 0; j < s3; j++) {
             v1.push_back(generate());
         }
-        std::cout << "Set 3.1 done.\n";
         for (int j = 0; j < s3; j++) {
             v2.push_back(generate());
         }
-        std::cout << "Set 3.2 done.\n";
         for (int j = 0; j < s3; j++) {
             v3.push_back(generate());
         }
-        std::cout << "Set 3.3 done.\n";
         for (int j = 0; j < s3; j++) {
             v4.push_back(generate());
         }
-        std::cout << "Set 3.4 done.\n";
         for (int j = 0; j < s3; j++) {
             v5.push_back(generate());
         }
-        std::cout << "Set 3.5 done.\n";
         vv3.push_back(v1);
         vv3.push_back(v2);
         vv3.push_back(v3);
@@ -152,23 +138,18 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
         for (int j = 0; j < s4; j++) {
             v1.push_back(generate());
         }
-        std::cout << "Set 4.1 done.\n";
         for (int j = 0; j < s4; j++) {
             v2.push_back(generate());
         }
-        std::cout << "Set 4.2 done.\n";
         for (int j = 0; j < s4; j++) {
             v3.push_back(generate());
         }
-        std::cout << "Set 4.3 done.\n";
         for (int j = 0; j < s4; j++) {
             v4.push_back(generate());
         }
-        std::cout << "Set 4.4 done.\n";
         for (int j = 0; j < s4; j++) {
             v5.push_back(generate());
         }
-        std::cout << "Set 4.5 done.\n";
         vv4.push_back(v1);
         vv4.push_back(v2);
         vv4.push_back(v3);
@@ -183,23 +164,18 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
         for (int j = 0; j < s5; j++) {
             v1.push_back(generate());
         }
-        std::cout << "Set 5.1 done.\n";
         for (int j = 0; j < s5; j++) {
             v2.push_back(generate());
         }
-        std::cout << "Set 5.2 done.\n";
         for (int j = 0; j < s5; j++) {
             v3.push_back(generate());
         }
-        std::cout << "Set 5.3 done.\n";
         for (int j = 0; j < s5; j++) {
             v4.push_back(generate());
         }
-        std::cout << "Set 5.4 done.\n";
         for (int j = 0; j < s5; j++) {
             v5.push_back(generate());
         }
-        std::cout << "Set 5.5 done.\n";
         vv5.push_back(v1);
         vv5.push_back(v2);
         vv5.push_back(v3);
@@ -287,6 +263,8 @@ void quickSort(std::vector<int> &v, int left, int right) {
 
 void quickSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector) {
     std::vector<int> temp;
+    float average{0};
+    float totalAverage{0};
     for (size_t i{0}; i < vectorAmount; i++) {
         whatVectorSize(whichVector, out);
         for (size_t j{0}; j < size; j++) {
@@ -296,8 +274,15 @@ void quickSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const un
             t.endClock();
             std::cout << std::fixed << std::setprecision(2) << whichVector << " vector QuickSort using rule of three took : " << t.getDuration() << " seconds" << std::endl;
             out << std::fixed << std::setprecision(2) << whichVector << " vector QuickSort using rule of three took : " << t.getDuration() << " seconds" << std::endl;
+            average += t.getDuration();
         }
+        std::cout << std::fixed << std::setprecision(2) << whichVector << " vector QuickSort using rule of three average time: " << average / size << " seconds" << std::endl;
+        out << std::fixed << std::setprecision(2) << whichVector << " vector QuickSort using rule of three average time: " << average / size << " seconds" << std::endl;
+        totalAverage += average / size;
+        average = 0;
     }
+    std::cout << std::fixed << std::setprecision(2) << whichVector << " vector QuickSort using rule of three total average time: " << totalAverage / vectorAmount << " seconds" << std::endl;
+    out << std::fixed << std::setprecision(2) << whichVector << " vector QuickSort using rule of three total average time: " << totalAverage / vectorAmount << " seconds" << std::endl;
 }
 
 std::vector<int> sedgewickSequence(const unsigned int n) {
@@ -332,6 +317,8 @@ void shellSort(std::vector<int> &v) {
 
 void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector) {
     std::vector<int> temp;
+    float average{0};
+    float totalAverage{0};
     for (size_t i{0}; i < vectorAmount; i++) {
         whatVectorSize(whichVector, out);
         for (size_t j{0}; j < size; j++) {
@@ -341,8 +328,15 @@ void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const un
             t.endClock();
             std::cout << std::fixed << std::setprecision(2) << whichVector << " vector ShellSort took : " << t.getDuration() << " seconds" << std::endl;
             out << std::fixed << std::setprecision(2) << whichVector << " vector ShellSort took : " << t.getDuration() << " seconds" << std::endl;
+            average += t.getDuration();
         }
+        std::cout << std::fixed << std::setprecision(2) << whichVector << " vector ShellSort average time: " << average / size << " seconds" << std::endl;
+        out << std::fixed << std::setprecision(2) << whichVector << " vector ShellSort average time: " << average / size << " seconds" << std::endl;
+        totalAverage += average / size;
+        average = 0;
     }
+    std::cout << std::fixed << std::setprecision(2) << whichVector << " vector ShellSort total average time: " << totalAverage / vectorAmount << " seconds" << std::endl;
+    out << std::fixed << std::setprecision(2) << whichVector << " vector ShellSort total average time: " << totalAverage / vectorAmount << " seconds" << std::endl;
 }
 
 int main() {
