@@ -10,10 +10,10 @@
 #include <functional>
 #include <string>
 
-const unsigned int s1{4000000}, s2{8000000}, s3{16000000}, s4{32000000}, s5{64000000};
-const unsigned int testAmount{10};
-const unsigned int testAmountDescending{10};
-const unsigned int vectorAmount{5};
+const unsigned long long int s1{4000000}, s2{8000000}, s3{16000000}, s4{32000000}, s5{64000000};
+const unsigned long long int testAmount{10};
+const unsigned long long int testAmountDescending{10};
+const unsigned long long int vectorAmount{5};
 class Timer
 {
     private: 
@@ -35,41 +35,41 @@ class Timer
         }
 };
 
-// std::vector<std::vector<int>> generateRandomVector();
-std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors();
-void sortDescending(std::vector<std::vector<std::vector<int>>> &vvv);
-int medianOfThree(std::vector<int> &v, int left, int right);
-int partition(std::vector<int> &v, int left, int right);
+// std::vector<std::vector<long long int>> generateRandomVector();
+std::vector<std::vector<std::vector<long long int>>> multiGenerateRandomVectors();
+void sortDescending(std::vector<std::vector<std::vector<long long int>>> &vvv);
+long long int medianOfThree(std::vector<long long int> &v, long long int left, long long int right);
+long long int partition(std::vector<long long int> &v, long long int left, long long int right);
 void whatVectorSize(std::string size, std::ofstream& out);
-void quickSort(std::vector<std::vector<int>> &v, int left, int right);
-void quickSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector);
-std::vector<int> sedgewickSequence(const unsigned int size);
-void shellSort(std::vector<int> &v);
-void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector);
+void quickSort(std::vector<std::vector<long long int>> &v, long long int left, long long int right);
+void quickSortTest(std::vector<std::vector<long long int>> v, std::ofstream& out, const unsigned long long int size, Timer &t, std::string whichVector);
+std::vector<long long int> sedgewickSequence(const unsigned long long int size);
+void shellSort(std::vector<long long int> &v);
+void shellSortTest(std::vector<std::vector<long long int>> v, std::ofstream& out, const unsigned long long int size, Timer &t, std::string whichVector);
 
 
-std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
-    std::vector<std::vector<std::vector<int>>> vvv;
+std::vector<std::vector<std::vector<long long int>>> multiGenerateRandomVectors() {
+    std::vector<std::vector<std::vector<long long int>>> vvv;
     std::default_random_engine rd;
     std::mt19937_64 generator(rd());
-    std::uniform_int_distribution<int> distribution(1,1000000);
+    std::uniform_int_distribution<long long int> distribution(1,900000000000);
     auto generate = std::bind ( distribution, generator );
-    std::vector<std::vector<int>> vv1; std::vector<std::vector<int>> vv2; std::vector<std::vector<int>> vv3; std::vector<std::vector<int>> vv4; std::vector<std::vector<int>> vv5;
-    for (int i = 0; i < vectorAmount; i++) {
-        std::vector<int> v1; std::vector<int> v2; std::vector<int> v3; std::vector<int> v4; std::vector<int> v5;
-        for (int j = 0; j < s1; j++) {
+    std::vector<std::vector<long long int>> vv1; std::vector<std::vector<long long int>> vv2; std::vector<std::vector<long long int>> vv3; std::vector<std::vector<long long int>> vv4; std::vector<std::vector<long long int>> vv5;
+    for (long long int i = 0; i < vectorAmount; i++) {
+        std::vector<long long int> v1; std::vector<long long int> v2; std::vector<long long int> v3; std::vector<long long int> v4; std::vector<long long int> v5;
+        for (long long int j = 0; j < s1; j++) {
             v1.push_back(generate());
         }
-        for (int j = 0; j < s1; j++) {
+        for (long long int j = 0; j < s1; j++) {
             v2.push_back(generate());
         }
-        for (int j = 0; j < s1; j++) {
+        for (long long int j = 0; j < s1; j++) {
             v3.push_back(generate());
         }
-        for (int j = 0; j < s1; j++) {
+        for (long long int j = 0; j < s1; j++) {
             v4.push_back(generate());
         }
-        for (int j = 0; j < s1; j++) {
+        for (long long int j = 0; j < s1; j++) {
             v5.push_back(generate());
         }
         vv1.push_back(v1);
@@ -81,21 +81,21 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
     vvv.push_back(vv1);
     std::cout << "Set 1 done.\n";
 
-    for (int i = 0; i < vectorAmount; i++) {
-        std::vector<int> v1; std::vector<int> v2; std::vector<int> v3; std::vector<int> v4; std::vector<int> v5;
-        for (int j = 0; j < s2; j++) {
+    for (long long int i = 0; i < vectorAmount; i++) {
+        std::vector<long long int> v1; std::vector<long long int> v2; std::vector<long long int> v3; std::vector<long long int> v4; std::vector<long long int> v5;
+        for (long long int j = 0; j < s2; j++) {
             v1.push_back(generate());
         }
-        for (int j = 0; j < s2; j++) {
+        for (long long int j = 0; j < s2; j++) {
             v2.push_back(generate());
         }
-        for (int j = 0; j < s2; j++) {
+        for (long long int j = 0; j < s2; j++) {
             v3.push_back(generate());
         }
-        for (int j = 0; j < s2; j++) {
+        for (long long int j = 0; j < s2; j++) {
             v4.push_back(generate());
         }
-        for (int j = 0; j < s2; j++) {
+        for (long long int j = 0; j < s2; j++) {
             v5.push_back(generate());
         }
         vv2.push_back(v1);
@@ -107,21 +107,21 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
     vvv.push_back(vv2);
     std::cout << "Set 2 done.\n";
 
-    for (int i = 0; i < vectorAmount; i++) {
-        std::vector<int> v1; std::vector<int> v2; std::vector<int> v3; std::vector<int> v4; std::vector<int> v5;
-        for (int j = 0; j < s3; j++) {
+    for (long long int i = 0; i < vectorAmount; i++) {
+        std::vector<long long int> v1; std::vector<long long int> v2; std::vector<long long int> v3; std::vector<long long int> v4; std::vector<long long int> v5;
+        for (long long int j = 0; j < s3; j++) {
             v1.push_back(generate());
         }
-        for (int j = 0; j < s3; j++) {
+        for (long long int j = 0; j < s3; j++) {
             v2.push_back(generate());
         }
-        for (int j = 0; j < s3; j++) {
+        for (long long int j = 0; j < s3; j++) {
             v3.push_back(generate());
         }
-        for (int j = 0; j < s3; j++) {
+        for (long long int j = 0; j < s3; j++) {
             v4.push_back(generate());
         }
-        for (int j = 0; j < s3; j++) {
+        for (long long int j = 0; j < s3; j++) {
             v5.push_back(generate());
         }
         vv3.push_back(v1);
@@ -133,21 +133,21 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
     vvv.push_back(vv3);
     std::cout << "Set 3 done.\n";
 
-    for (int i = 0; i < vectorAmount; i++) {
-        std::vector<int> v1; std::vector<int> v2; std::vector<int> v3; std::vector<int> v4; std::vector<int> v5;
-        for (int j = 0; j < s4; j++) {
+    for (long long int i = 0; i < vectorAmount; i++) {
+        std::vector<long long int> v1; std::vector<long long int> v2; std::vector<long long int> v3; std::vector<long long int> v4; std::vector<long long int> v5;
+        for (long long int j = 0; j < s4; j++) {
             v1.push_back(generate());
         }
-        for (int j = 0; j < s4; j++) {
+        for (long long int j = 0; j < s4; j++) {
             v2.push_back(generate());
         }
-        for (int j = 0; j < s4; j++) {
+        for (long long int j = 0; j < s4; j++) {
             v3.push_back(generate());
         }
-        for (int j = 0; j < s4; j++) {
+        for (long long int j = 0; j < s4; j++) {
             v4.push_back(generate());
         }
-        for (int j = 0; j < s4; j++) {
+        for (long long int j = 0; j < s4; j++) {
             v5.push_back(generate());
         }
         vv4.push_back(v1);
@@ -159,21 +159,21 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
     vvv.push_back(vv4);
     std::cout << "Set 4 done.\n";
 
-    for (int i = 0; i < vectorAmount; i++) {
-        std::vector<int> v1; std::vector<int> v2; std::vector<int> v3; std::vector<int> v4; std::vector<int> v5;
-        for (int j = 0; j < s5; j++) {
+    for (long long int i = 0; i < vectorAmount; i++) {
+        std::vector<long long int> v1; std::vector<long long int> v2; std::vector<long long int> v3; std::vector<long long int> v4; std::vector<long long int> v5;
+        for (long long int j = 0; j < s5; j++) {
             v1.push_back(generate());
         }
-        for (int j = 0; j < s5; j++) {
+        for (long long int j = 0; j < s5; j++) {
             v2.push_back(generate());
         }
-        for (int j = 0; j < s5; j++) {
+        for (long long int j = 0; j < s5; j++) {
             v3.push_back(generate());
         }
-        for (int j = 0; j < s5; j++) {
+        for (long long int j = 0; j < s5; j++) {
             v4.push_back(generate());
         }
-        for (int j = 0; j < s5; j++) {
+        for (long long int j = 0; j < s5; j++) {
             v5.push_back(generate());
         }
         vv5.push_back(v1);
@@ -189,16 +189,17 @@ std::vector<std::vector<std::vector<int>>> multiGenerateRandomVectors() {
 
 }
 
-void sortDescending(std::vector<std::vector<std::vector<int>>> &vvv) {
-    for (int i = 0; i < vvv.size(); i++) {
-        for (int j = 0; j < vvv[i].size(); j++) {
-            std::sort(vvv[i][j].begin(), vvv[i][j].end(), std::greater<int>());
+void sortDescending(std::vector<std::vector<std::vector<long long int>>> &vvv) {
+    for (long long int i = 0; i < vvv.size(); i++) {
+        for (long long int j = 0; j < vvv[i].size(); j++) {
+            std::sort(vvv[i][j].begin(), vvv[i][j].end(), std::greater<long long int>());
         }
+        std::cout << "Set " << i + 1 << " done.\n";
     }
 }
 
-int medianOfThree(std::vector<int> &v, int left, int right) {
-    int mid = (left + right) / 2;
+long long int medianOfThree(std::vector<long long int> &v, long long int left, long long int right) {
+    long long int mid = (left + right) / 2;
     if (v[left] > v[mid]) {
         std::swap(v[left], v[mid]);
     }
@@ -211,10 +212,10 @@ int medianOfThree(std::vector<int> &v, int left, int right) {
     return mid;
 }
 
-int partition(std::vector<int> &v, int left, int right) {
-    int pivot = medianOfThree(v, left, right);
-    int i = left;
-    int j = right;
+long long int partition(std::vector<long long int> &v, long long int left, long long int right) {
+    long long int pivot = medianOfThree(v, left, right);
+    long long int i = left;
+    long long int j = right;
     while (i < j) {
         while (v[i] <= v[pivot] && i < right) {
             i++;
@@ -253,16 +254,16 @@ void whatVectorSize(std::string size, std::ofstream& out) {
     }
 }
 
-void quickSort(std::vector<int> &v, int left, int right) {
+void quickSort(std::vector<long long int> &v, long long int left, long long int right) {
     if (left < right) {
-        int pivot = partition(v, left, right);
+        long long int pivot = partition(v, left, right);
         quickSort(v, left, pivot - 1);
         quickSort(v, pivot + 1, right);
     }
 }
 
-void quickSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector) {
-    std::vector<int> temp;
+void quickSortTest(std::vector<std::vector<long long int>> v, std::ofstream& out, const unsigned long long int size, Timer &t, std::string whichVector) {
+    std::vector<long long int> temp;
     float average{0};
     float totalAverage{0};
     for (size_t i{0}; i < vectorAmount; i++) {
@@ -285,10 +286,10 @@ void quickSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const un
     out << std::fixed << std::setprecision(2) << whichVector << " vector QuickSort using rule of three total average time: " << totalAverage / vectorAmount << " seconds" << std::endl;
 }
 
-std::vector<int> sedgewickSequence(const unsigned int n) {
-    std::vector<int> v;
-    int k{0};
-    int gap{0};
+std::vector<long long int> sedgewickSequence(const unsigned long long int n) {
+    std::vector<long long int> v;
+    long long int k{0};
+    long long int gap{0};
     while (gap < n) {
         if (k % 2 == 0) {
             gap = 9 * (pow(2, k) - pow(2, k / 2)) + 1;
@@ -301,12 +302,12 @@ std::vector<int> sedgewickSequence(const unsigned int n) {
     return v;
 }
 
-void shellSort(std::vector<int> &v) {
-    std::vector<int> gaps = sedgewickSequence(v.size());
-    for (int i = gaps.size() - 1; i >= 0; i--) {
-        for (int j = gaps[i]; j < v.size(); j++) {
-            int temp = v[j];
-            int k;
+void shellSort(std::vector<long long int> &v) {
+    std::vector<long long int> gaps = sedgewickSequence(v.size());
+    for (long long int i = gaps.size() - 1; i >= 0; i--) {
+        for (long long int j = gaps[i]; j < v.size(); j++) {
+            long long int temp = v[j];
+            long long int k;
             for (k = j; k >= gaps[i] && v[k - gaps[i]] > temp; k -= gaps[i]) {
                 v[k] = v[k - gaps[i]];
             }
@@ -315,8 +316,8 @@ void shellSort(std::vector<int> &v) {
     }
 }
 
-void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const unsigned int size, Timer &t, std::string whichVector) {
-    std::vector<int> temp;
+void shellSortTest(std::vector<std::vector<long long int>> v, std::ofstream& out, const unsigned long long int size, Timer &t, std::string whichVector) {
+    std::vector<long long int> temp;
     float average{0};
     float totalAverage{0};
     for (size_t i{0}; i < vectorAmount; i++) {
@@ -340,10 +341,10 @@ void shellSortTest(std::vector<std::vector<int>> v, std::ofstream& out, const un
 }
 
 int main() {
-    std::vector<std::vector<std::vector<int>>> vvv = multiGenerateRandomVectors();
+    std::vector<std::vector<std::vector<long long int>>> vvv = multiGenerateRandomVectors();
     Timer t;
     std::ofstream file("time.txt");
-    std::vector<std::vector<int>> vv1 = vvv[0]; std::vector<std::vector<int>> vv2 = vvv[1]; std::vector<std::vector<int>> vv3 = vvv[2]; std::vector<std::vector<int>> vv4 = vvv[3]; std::vector<std::vector<int>> vv5 = vvv[4]; 
+    std::vector<std::vector<long long int>> vv1 = vvv[0]; std::vector<std::vector<long long int>> vv2 = vvv[1]; std::vector<std::vector<long long int>> vv3 = vvv[2]; std::vector<std::vector<long long int>> vv4 = vvv[3]; std::vector<std::vector<long long int>> vv5 = vvv[4]; 
     std::cout << "Random vectors" << std::endl;
     std::cout << "QUICKSORT USING RULE OF THREE" << std::endl;
     file << "Random vectors" << std::endl;
@@ -363,7 +364,7 @@ int main() {
     shellSortTest(vv4, file, testAmount, t, "Fourth");
     shellSortTest(vv5, file, testAmount, t, "Fifth");
     vv1.clear(); vv2.clear(); vv3.clear(); vv4.clear(); vv5.clear();
-    std::vector<std::vector<std::vector<int>>> ddv = vvv;
+    std::vector<std::vector<std::vector<long long int>>> ddv = vvv;
     sortDescending(ddv);
     vv1 = ddv[0]; vv2 = ddv[1]; vv3 = ddv[2]; vv4 = ddv[3]; vv5 = ddv[4];
     std::cout << "\n\nDescending random vectors" << std::endl;
@@ -386,9 +387,9 @@ int main() {
     shellSortTest(vv5, file, testAmountDescending, t, "Fifth");
     vv1.clear(); vv2.clear(); vv3.clear(); vv4.clear(); vv5.clear();
     vvv.clear(); ddv.clear();
-    std::vector<std::vector<std::vector<int>>>().swap(vvv);
-    std::vector<std::vector<std::vector<int>>>().swap(ddv);
-    std::vector<std::vector<int>>().swap(vv1); std::vector<std::vector<int>>().swap(vv2); std::vector<std::vector<int>>().swap(vv3); std::vector<std::vector<int>>().swap(vv4); std::vector<std::vector<int>>().swap(vv5);
+    std::vector<std::vector<std::vector<long long int>>>().swap(vvv);
+    std::vector<std::vector<std::vector<long long int>>>().swap(ddv);
+    std::vector<std::vector<long long int>>().swap(vv1); std::vector<std::vector<long long int>>().swap(vv2); std::vector<std::vector<long long int>>().swap(vv3); std::vector<std::vector<long long int>>().swap(vv4); std::vector<std::vector<long long int>>().swap(vv5);
     file.close();
     std::cout << "Press 'ENTER' to exit" << std::endl;
     std::cin.get();
