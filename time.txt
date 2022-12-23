@@ -1,0 +1,1334 @@
+Random vectors
+QUICKSORT USING RULE OF THREE
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three average time: 0.66 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three average time: 0.66 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three took : 0.65 seconds
+First vector QuickSort using rule of three average time: 0.65 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.68 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.68 seconds
+First vector QuickSort using rule of three average time: 0.67 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.68 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.67 seconds
+First vector QuickSort using rule of three took : 0.68 seconds
+First vector QuickSort using rule of three took : 0.68 seconds
+First vector QuickSort using rule of three took : 0.66 seconds
+First vector QuickSort using rule of three average time: 0.67 seconds
+First vector QuickSort using rule of three total average time: 0.66 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.44 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three average time: 1.40 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.42 seconds
+Second vector QuickSort using rule of three average time: 1.41 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 1.43 seconds
+Second vector QuickSort using rule of three took : 1.45 seconds
+Second vector QuickSort using rule of three took : 1.43 seconds
+Second vector QuickSort using rule of three took : 1.43 seconds
+Second vector QuickSort using rule of three took : 1.43 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three average time: 1.42 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 1.36 seconds
+Second vector QuickSort using rule of three took : 1.37 seconds
+Second vector QuickSort using rule of three took : 1.36 seconds
+Second vector QuickSort using rule of three took : 1.36 seconds
+Second vector QuickSort using rule of three took : 1.36 seconds
+Second vector QuickSort using rule of three took : 1.37 seconds
+Second vector QuickSort using rule of three took : 1.36 seconds
+Second vector QuickSort using rule of three took : 1.37 seconds
+Second vector QuickSort using rule of three took : 1.37 seconds
+Second vector QuickSort using rule of three took : 1.36 seconds
+Second vector QuickSort using rule of three average time: 1.37 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.40 seconds
+Second vector QuickSort using rule of three took : 1.41 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three took : 1.39 seconds
+Second vector QuickSort using rule of three average time: 1.39 seconds
+Second vector QuickSort using rule of three total average time: 1.40 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 2.97 seconds
+Third vector QuickSort using rule of three took : 2.85 seconds
+Third vector QuickSort using rule of three took : 2.87 seconds
+Third vector QuickSort using rule of three took : 2.85 seconds
+Third vector QuickSort using rule of three took : 2.86 seconds
+Third vector QuickSort using rule of three took : 2.87 seconds
+Third vector QuickSort using rule of three took : 2.89 seconds
+Third vector QuickSort using rule of three took : 2.90 seconds
+Third vector QuickSort using rule of three took : 2.90 seconds
+Third vector QuickSort using rule of three took : 2.97 seconds
+Third vector QuickSort using rule of three average time: 2.89 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 3.04 seconds
+Third vector QuickSort using rule of three took : 3.00 seconds
+Third vector QuickSort using rule of three took : 3.00 seconds
+Third vector QuickSort using rule of three took : 2.99 seconds
+Third vector QuickSort using rule of three took : 3.02 seconds
+Third vector QuickSort using rule of three took : 3.03 seconds
+Third vector QuickSort using rule of three took : 3.00 seconds
+Third vector QuickSort using rule of three took : 3.01 seconds
+Third vector QuickSort using rule of three took : 2.99 seconds
+Third vector QuickSort using rule of three took : 3.02 seconds
+Third vector QuickSort using rule of three average time: 3.01 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 2.81 seconds
+Third vector QuickSort using rule of three took : 2.77 seconds
+Third vector QuickSort using rule of three took : 2.72 seconds
+Third vector QuickSort using rule of three took : 2.73 seconds
+Third vector QuickSort using rule of three took : 2.73 seconds
+Third vector QuickSort using rule of three took : 2.74 seconds
+Third vector QuickSort using rule of three took : 2.73 seconds
+Third vector QuickSort using rule of three took : 2.73 seconds
+Third vector QuickSort using rule of three took : 2.74 seconds
+Third vector QuickSort using rule of three took : 2.73 seconds
+Third vector QuickSort using rule of three average time: 2.74 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 2.82 seconds
+Third vector QuickSort using rule of three took : 2.85 seconds
+Third vector QuickSort using rule of three took : 2.83 seconds
+Third vector QuickSort using rule of three took : 2.83 seconds
+Third vector QuickSort using rule of three took : 2.83 seconds
+Third vector QuickSort using rule of three took : 2.80 seconds
+Third vector QuickSort using rule of three took : 2.80 seconds
+Third vector QuickSort using rule of three took : 2.79 seconds
+Third vector QuickSort using rule of three took : 2.82 seconds
+Third vector QuickSort using rule of three took : 2.81 seconds
+Third vector QuickSort using rule of three average time: 2.82 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 2.82 seconds
+Third vector QuickSort using rule of three took : 2.83 seconds
+Third vector QuickSort using rule of three took : 2.81 seconds
+Third vector QuickSort using rule of three took : 2.82 seconds
+Third vector QuickSort using rule of three took : 2.84 seconds
+Third vector QuickSort using rule of three took : 2.82 seconds
+Third vector QuickSort using rule of three took : 2.83 seconds
+Third vector QuickSort using rule of three took : 2.84 seconds
+Third vector QuickSort using rule of three took : 2.87 seconds
+Third vector QuickSort using rule of three took : 2.82 seconds
+Third vector QuickSort using rule of three average time: 2.83 seconds
+Third vector QuickSort using rule of three total average time: 2.86 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 6.24 seconds
+Fourth vector QuickSort using rule of three took : 5.93 seconds
+Fourth vector QuickSort using rule of three took : 5.92 seconds
+Fourth vector QuickSort using rule of three took : 5.95 seconds
+Fourth vector QuickSort using rule of three took : 5.92 seconds
+Fourth vector QuickSort using rule of three took : 5.93 seconds
+Fourth vector QuickSort using rule of three took : 5.93 seconds
+Fourth vector QuickSort using rule of three took : 5.92 seconds
+Fourth vector QuickSort using rule of three took : 5.91 seconds
+Fourth vector QuickSort using rule of three took : 5.99 seconds
+Fourth vector QuickSort using rule of three average time: 5.96 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 5.92 seconds
+Fourth vector QuickSort using rule of three took : 5.93 seconds
+Fourth vector QuickSort using rule of three took : 5.95 seconds
+Fourth vector QuickSort using rule of three took : 5.93 seconds
+Fourth vector QuickSort using rule of three took : 6.22 seconds
+Fourth vector QuickSort using rule of three took : 6.08 seconds
+Fourth vector QuickSort using rule of three took : 5.93 seconds
+Fourth vector QuickSort using rule of three took : 5.94 seconds
+Fourth vector QuickSort using rule of three took : 5.93 seconds
+Fourth vector QuickSort using rule of three took : 5.95 seconds
+Fourth vector QuickSort using rule of three average time: 5.98 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 5.96 seconds
+Fourth vector QuickSort using rule of three took : 6.00 seconds
+Fourth vector QuickSort using rule of three took : 5.98 seconds
+Fourth vector QuickSort using rule of three took : 5.97 seconds
+Fourth vector QuickSort using rule of three took : 6.01 seconds
+Fourth vector QuickSort using rule of three took : 5.99 seconds
+Fourth vector QuickSort using rule of three took : 5.99 seconds
+Fourth vector QuickSort using rule of three took : 5.98 seconds
+Fourth vector QuickSort using rule of three took : 5.96 seconds
+Fourth vector QuickSort using rule of three took : 5.99 seconds
+Fourth vector QuickSort using rule of three average time: 5.98 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 6.03 seconds
+Fourth vector QuickSort using rule of three took : 6.02 seconds
+Fourth vector QuickSort using rule of three took : 6.05 seconds
+Fourth vector QuickSort using rule of three took : 6.01 seconds
+Fourth vector QuickSort using rule of three took : 6.01 seconds
+Fourth vector QuickSort using rule of three took : 6.04 seconds
+Fourth vector QuickSort using rule of three took : 6.02 seconds
+Fourth vector QuickSort using rule of three took : 5.99 seconds
+Fourth vector QuickSort using rule of three took : 5.97 seconds
+Fourth vector QuickSort using rule of three took : 5.97 seconds
+Fourth vector QuickSort using rule of three average time: 6.01 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 5.90 seconds
+Fourth vector QuickSort using rule of three took : 5.88 seconds
+Fourth vector QuickSort using rule of three took : 5.92 seconds
+Fourth vector QuickSort using rule of three took : 5.89 seconds
+Fourth vector QuickSort using rule of three took : 5.92 seconds
+Fourth vector QuickSort using rule of three took : 5.94 seconds
+Fourth vector QuickSort using rule of three took : 5.88 seconds
+Fourth vector QuickSort using rule of three took : 5.94 seconds
+Fourth vector QuickSort using rule of three took : 5.92 seconds
+Fourth vector QuickSort using rule of three took : 5.91 seconds
+Fourth vector QuickSort using rule of three average time: 5.91 seconds
+Fourth vector QuickSort using rule of three total average time: 5.97 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 12.38 seconds
+Fifth vector QuickSort using rule of three took : 12.26 seconds
+Fifth vector QuickSort using rule of three took : 12.33 seconds
+Fifth vector QuickSort using rule of three took : 12.37 seconds
+Fifth vector QuickSort using rule of three took : 12.29 seconds
+Fifth vector QuickSort using rule of three took : 12.26 seconds
+Fifth vector QuickSort using rule of three took : 12.31 seconds
+Fifth vector QuickSort using rule of three took : 12.35 seconds
+Fifth vector QuickSort using rule of three took : 12.28 seconds
+Fifth vector QuickSort using rule of three took : 12.27 seconds
+Fifth vector QuickSort using rule of three average time: 12.31 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 12.10 seconds
+Fifth vector QuickSort using rule of three took : 12.13 seconds
+Fifth vector QuickSort using rule of three took : 12.11 seconds
+Fifth vector QuickSort using rule of three took : 12.10 seconds
+Fifth vector QuickSort using rule of three took : 12.16 seconds
+Fifth vector QuickSort using rule of three took : 12.15 seconds
+Fifth vector QuickSort using rule of three took : 12.25 seconds
+Fifth vector QuickSort using rule of three took : 12.16 seconds
+Fifth vector QuickSort using rule of three took : 12.15 seconds
+Fifth vector QuickSort using rule of three took : 12.07 seconds
+Fifth vector QuickSort using rule of three average time: 12.14 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 12.26 seconds
+Fifth vector QuickSort using rule of three took : 12.26 seconds
+Fifth vector QuickSort using rule of three took : 12.20 seconds
+Fifth vector QuickSort using rule of three took : 12.25 seconds
+Fifth vector QuickSort using rule of three took : 12.28 seconds
+Fifth vector QuickSort using rule of three took : 12.31 seconds
+Fifth vector QuickSort using rule of three took : 12.26 seconds
+Fifth vector QuickSort using rule of three took : 12.28 seconds
+Fifth vector QuickSort using rule of three took : 12.22 seconds
+Fifth vector QuickSort using rule of three took : 12.26 seconds
+Fifth vector QuickSort using rule of three average time: 12.26 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 12.25 seconds
+Fifth vector QuickSort using rule of three took : 12.28 seconds
+Fifth vector QuickSort using rule of three took : 12.27 seconds
+Fifth vector QuickSort using rule of three took : 12.23 seconds
+Fifth vector QuickSort using rule of three took : 12.22 seconds
+Fifth vector QuickSort using rule of three took : 12.23 seconds
+Fifth vector QuickSort using rule of three took : 12.27 seconds
+Fifth vector QuickSort using rule of three took : 12.28 seconds
+Fifth vector QuickSort using rule of three took : 12.24 seconds
+Fifth vector QuickSort using rule of three took : 12.28 seconds
+Fifth vector QuickSort using rule of three average time: 12.26 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 12.14 seconds
+Fifth vector QuickSort using rule of three took : 12.10 seconds
+Fifth vector QuickSort using rule of three took : 12.08 seconds
+Fifth vector QuickSort using rule of three took : 12.13 seconds
+Fifth vector QuickSort using rule of three took : 12.15 seconds
+Fifth vector QuickSort using rule of three took : 12.13 seconds
+Fifth vector QuickSort using rule of three took : 12.15 seconds
+Fifth vector QuickSort using rule of three took : 12.16 seconds
+Fifth vector QuickSort using rule of three took : 12.08 seconds
+Fifth vector QuickSort using rule of three took : 12.02 seconds
+Fifth vector QuickSort using rule of three average time: 12.11 seconds
+Fifth vector QuickSort using rule of three total average time: 12.22 seconds
+
+
+SHELLSORT USING SEDGEWICK'S GAPS
+
+Vector size: 4,000,000
+First vector ShellSort took : 1.75 seconds
+First vector ShellSort took : 1.78 seconds
+First vector ShellSort took : 1.77 seconds
+First vector ShellSort took : 1.77 seconds
+First vector ShellSort took : 1.81 seconds
+First vector ShellSort took : 1.75 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort average time: 1.75 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.74 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.74 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort average time: 1.73 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.74 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.74 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort average time: 1.73 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.75 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.74 seconds
+First vector ShellSort average time: 1.73 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.73 seconds
+First vector ShellSort took : 1.72 seconds
+First vector ShellSort average time: 1.73 seconds
+First vector ShellSort total average time: 1.73 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort took : 3.68 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort took : 3.64 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort average time: 3.67 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 3.68 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.70 seconds
+Second vector ShellSort took : 3.72 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.70 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort average time: 3.68 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.68 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.68 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.65 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort average time: 3.68 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 3.68 seconds
+Second vector ShellSort took : 3.65 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort took : 3.68 seconds
+Second vector ShellSort took : 3.68 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort took : 3.69 seconds
+Second vector ShellSort average time: 3.68 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.67 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort took : 3.65 seconds
+Second vector ShellSort took : 3.64 seconds
+Second vector ShellSort took : 3.64 seconds
+Second vector ShellSort took : 3.63 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort took : 3.66 seconds
+Second vector ShellSort average time: 3.66 seconds
+Second vector ShellSort total average time: 3.67 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 7.79 seconds
+Third vector ShellSort took : 7.76 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.76 seconds
+Third vector ShellSort took : 7.73 seconds
+Third vector ShellSort took : 7.71 seconds
+Third vector ShellSort took : 7.71 seconds
+Third vector ShellSort took : 7.82 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort average time: 7.75 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort took : 7.77 seconds
+Third vector ShellSort took : 7.77 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.79 seconds
+Third vector ShellSort took : 7.76 seconds
+Third vector ShellSort took : 7.76 seconds
+Third vector ShellSort took : 7.79 seconds
+Third vector ShellSort took : 7.73 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort average time: 7.76 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 7.79 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.79 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.73 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.78 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort average time: 7.76 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 7.89 seconds
+Third vector ShellSort took : 7.72 seconds
+Third vector ShellSort took : 7.71 seconds
+Third vector ShellSort took : 7.73 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.70 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort took : 7.70 seconds
+Third vector ShellSort average time: 7.74 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 7.80 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.74 seconds
+Third vector ShellSort took : 7.73 seconds
+Third vector ShellSort took : 7.72 seconds
+Third vector ShellSort took : 7.75 seconds
+Third vector ShellSort took : 7.76 seconds
+Third vector ShellSort took : 7.73 seconds
+Third vector ShellSort took : 7.68 seconds
+Third vector ShellSort average time: 7.74 seconds
+Third vector ShellSort total average time: 7.75 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 16.33 seconds
+Fourth vector ShellSort took : 16.34 seconds
+Fourth vector ShellSort took : 16.37 seconds
+Fourth vector ShellSort took : 16.38 seconds
+Fourth vector ShellSort took : 16.36 seconds
+Fourth vector ShellSort took : 16.34 seconds
+Fourth vector ShellSort took : 16.36 seconds
+Fourth vector ShellSort took : 16.32 seconds
+Fourth vector ShellSort took : 16.34 seconds
+Fourth vector ShellSort took : 16.32 seconds
+Fourth vector ShellSort average time: 16.35 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 16.33 seconds
+Fourth vector ShellSort took : 16.34 seconds
+Fourth vector ShellSort took : 16.36 seconds
+Fourth vector ShellSort took : 16.37 seconds
+Fourth vector ShellSort took : 16.47 seconds
+Fourth vector ShellSort took : 16.37 seconds
+Fourth vector ShellSort took : 16.31 seconds
+Fourth vector ShellSort took : 16.32 seconds
+Fourth vector ShellSort took : 16.32 seconds
+Fourth vector ShellSort took : 16.34 seconds
+Fourth vector ShellSort average time: 16.35 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 16.39 seconds
+Fourth vector ShellSort took : 16.41 seconds
+Fourth vector ShellSort took : 16.32 seconds
+Fourth vector ShellSort took : 16.31 seconds
+Fourth vector ShellSort took : 16.34 seconds
+Fourth vector ShellSort took : 16.37 seconds
+Fourth vector ShellSort took : 16.44 seconds
+Fourth vector ShellSort took : 16.37 seconds
+Fourth vector ShellSort took : 16.40 seconds
+Fourth vector ShellSort took : 16.31 seconds
+Fourth vector ShellSort average time: 16.37 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 16.39 seconds
+Fourth vector ShellSort took : 16.36 seconds
+Fourth vector ShellSort took : 16.37 seconds
+Fourth vector ShellSort took : 16.36 seconds
+Fourth vector ShellSort took : 16.37 seconds
+Fourth vector ShellSort took : 16.47 seconds
+Fourth vector ShellSort took : 16.48 seconds
+Fourth vector ShellSort took : 16.48 seconds
+Fourth vector ShellSort took : 16.31 seconds
+Fourth vector ShellSort took : 16.41 seconds
+Fourth vector ShellSort average time: 16.40 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 16.29 seconds
+Fourth vector ShellSort took : 16.36 seconds
+Fourth vector ShellSort took : 16.30 seconds
+Fourth vector ShellSort took : 16.31 seconds
+Fourth vector ShellSort took : 16.29 seconds
+Fourth vector ShellSort took : 16.29 seconds
+Fourth vector ShellSort took : 16.33 seconds
+Fourth vector ShellSort took : 16.33 seconds
+Fourth vector ShellSort took : 16.35 seconds
+Fourth vector ShellSort took : 16.33 seconds
+Fourth vector ShellSort average time: 16.32 seconds
+Fourth vector ShellSort total average time: 16.36 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 34.98 seconds
+Fifth vector ShellSort took : 34.57 seconds
+Fifth vector ShellSort took : 34.69 seconds
+Fifth vector ShellSort took : 34.55 seconds
+Fifth vector ShellSort took : 34.45 seconds
+Fifth vector ShellSort took : 34.33 seconds
+Fifth vector ShellSort took : 34.24 seconds
+Fifth vector ShellSort took : 34.37 seconds
+Fifth vector ShellSort took : 34.44 seconds
+Fifth vector ShellSort took : 34.54 seconds
+Fifth vector ShellSort average time: 34.52 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 34.51 seconds
+Fifth vector ShellSort took : 34.59 seconds
+Fifth vector ShellSort took : 34.63 seconds
+Fifth vector ShellSort took : 34.73 seconds
+Fifth vector ShellSort took : 34.42 seconds
+Fifth vector ShellSort took : 34.45 seconds
+Fifth vector ShellSort took : 34.59 seconds
+Fifth vector ShellSort took : 34.50 seconds
+Fifth vector ShellSort took : 34.56 seconds
+Fifth vector ShellSort took : 34.68 seconds
+Fifth vector ShellSort average time: 34.57 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 34.34 seconds
+Fifth vector ShellSort took : 34.34 seconds
+Fifth vector ShellSort took : 34.41 seconds
+Fifth vector ShellSort took : 34.40 seconds
+Fifth vector ShellSort took : 34.27 seconds
+Fifth vector ShellSort took : 34.26 seconds
+Fifth vector ShellSort took : 34.19 seconds
+Fifth vector ShellSort took : 34.37 seconds
+Fifth vector ShellSort took : 34.34 seconds
+Fifth vector ShellSort took : 34.45 seconds
+Fifth vector ShellSort average time: 34.34 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 34.47 seconds
+Fifth vector ShellSort took : 34.52 seconds
+Fifth vector ShellSort took : 34.43 seconds
+Fifth vector ShellSort took : 34.47 seconds
+Fifth vector ShellSort took : 34.46 seconds
+Fifth vector ShellSort took : 34.25 seconds
+Fifth vector ShellSort took : 34.34 seconds
+Fifth vector ShellSort took : 34.30 seconds
+Fifth vector ShellSort took : 34.39 seconds
+Fifth vector ShellSort took : 34.52 seconds
+Fifth vector ShellSort average time: 34.41 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 34.56 seconds
+Fifth vector ShellSort took : 34.50 seconds
+Fifth vector ShellSort took : 34.54 seconds
+Fifth vector ShellSort took : 34.57 seconds
+Fifth vector ShellSort took : 34.66 seconds
+Fifth vector ShellSort took : 34.52 seconds
+Fifth vector ShellSort took : 34.35 seconds
+Fifth vector ShellSort took : 34.45 seconds
+Fifth vector ShellSort took : 34.52 seconds
+Fifth vector ShellSort took : 34.57 seconds
+Fifth vector ShellSort average time: 34.52 seconds
+Fifth vector ShellSort total average time: 34.47 seconds
+
+
+Descending random vectors
+
+
+QUICKSORT USING RULE OF THREE
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.25 seconds
+First vector QuickSort using rule of three took : 0.24 seconds
+First vector QuickSort using rule of three took : 0.23 seconds
+First vector QuickSort using rule of three average time: 0.23 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three average time: 0.22 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three average time: 0.22 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three average time: 0.22 seconds
+
+Vector size: 4,000,000
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.21 seconds
+First vector QuickSort using rule of three took : 0.22 seconds
+First vector QuickSort using rule of three average time: 0.21 seconds
+First vector QuickSort using rule of three total average time: 0.22 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.46 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three average time: 0.45 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.46 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three average time: 0.45 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three average time: 0.45 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.46 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three average time: 0.45 seconds
+
+Vector size: 8,000,000
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.43 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three took : 0.45 seconds
+Second vector QuickSort using rule of three took : 0.44 seconds
+Second vector QuickSort using rule of three average time: 0.44 seconds
+Second vector QuickSort using rule of three total average time: 0.45 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three average time: 0.91 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three average time: 0.91 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.93 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three average time: 0.91 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.90 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three average time: 0.91 seconds
+
+Vector size: 16,000,000
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.92 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.93 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three took : 0.91 seconds
+Third vector QuickSort using rule of three average time: 0.91 seconds
+Third vector QuickSort using rule of three total average time: 0.91 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.90 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.90 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three average time: 1.89 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three average time: 1.88 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.86 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.86 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three average time: 1.88 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three average time: 1.88 seconds
+
+Vector size: 32,000,000
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.88 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.87 seconds
+Fourth vector QuickSort using rule of three took : 1.89 seconds
+Fourth vector QuickSort using rule of three took : 1.90 seconds
+Fourth vector QuickSort using rule of three average time: 1.88 seconds
+Fourth vector QuickSort using rule of three total average time: 1.88 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 3.89 seconds
+Fifth vector QuickSort using rule of three took : 3.86 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three took : 3.91 seconds
+Fifth vector QuickSort using rule of three took : 3.86 seconds
+Fifth vector QuickSort using rule of three took : 3.88 seconds
+Fifth vector QuickSort using rule of three took : 3.88 seconds
+Fifth vector QuickSort using rule of three took : 3.88 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three average time: 3.87 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 3.88 seconds
+Fifth vector QuickSort using rule of three took : 3.89 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three took : 3.84 seconds
+Fifth vector QuickSort using rule of three took : 3.83 seconds
+Fifth vector QuickSort using rule of three took : 3.86 seconds
+Fifth vector QuickSort using rule of three took : 3.84 seconds
+Fifth vector QuickSort using rule of three took : 3.88 seconds
+Fifth vector QuickSort using rule of three average time: 3.86 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.82 seconds
+Fifth vector QuickSort using rule of three took : 3.88 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.84 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three took : 3.86 seconds
+Fifth vector QuickSort using rule of three took : 3.84 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three average time: 3.85 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 3.84 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three took : 3.84 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.82 seconds
+Fifth vector QuickSort using rule of three took : 3.82 seconds
+Fifth vector QuickSort using rule of three took : 3.83 seconds
+Fifth vector QuickSort using rule of three took : 3.86 seconds
+Fifth vector QuickSort using rule of three average time: 3.84 seconds
+
+Vector size: 64,000,000
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.88 seconds
+Fifth vector QuickSort using rule of three took : 3.87 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.84 seconds
+Fifth vector QuickSort using rule of three took : 3.83 seconds
+Fifth vector QuickSort using rule of three took : 3.86 seconds
+Fifth vector QuickSort using rule of three took : 3.82 seconds
+Fifth vector QuickSort using rule of three took : 3.85 seconds
+Fifth vector QuickSort using rule of three took : 3.86 seconds
+Fifth vector QuickSort using rule of three average time: 3.85 seconds
+Fifth vector QuickSort using rule of three total average time: 3.86 seconds
+
+
+SHELLSORT USING SEDGEWICK'S GAPS
+
+Vector size: 4,000,000
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.56 seconds
+First vector ShellSort took : 0.56 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort average time: 0.55 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort average time: 0.54 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort average time: 0.54 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort average time: 0.54 seconds
+
+Vector size: 4,000,000
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.55 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort took : 0.54 seconds
+First vector ShellSort average time: 0.54 seconds
+First vector ShellSort total average time: 0.54 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 1.13 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.15 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.15 seconds
+Second vector ShellSort took : 1.15 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort average time: 1.14 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort average time: 1.14 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.15 seconds
+Second vector ShellSort took : 1.13 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort average time: 1.14 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 1.15 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.15 seconds
+Second vector ShellSort took : 1.15 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort average time: 1.14 seconds
+
+Vector size: 8,000,000
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.13 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.13 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort took : 1.14 seconds
+Second vector ShellSort average time: 1.14 seconds
+Second vector ShellSort total average time: 1.14 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 2.38 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.36 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.38 seconds
+Third vector ShellSort took : 2.36 seconds
+Third vector ShellSort average time: 2.37 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 2.35 seconds
+Third vector ShellSort took : 2.36 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.35 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.38 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.38 seconds
+Third vector ShellSort took : 2.38 seconds
+Third vector ShellSort average time: 2.37 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 2.58 seconds
+Third vector ShellSort took : 2.52 seconds
+Third vector ShellSort took : 2.52 seconds
+Third vector ShellSort took : 2.47 seconds
+Third vector ShellSort took : 2.47 seconds
+Third vector ShellSort took : 2.45 seconds
+Third vector ShellSort took : 2.46 seconds
+Third vector ShellSort took : 2.39 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort took : 2.41 seconds
+Third vector ShellSort average time: 2.47 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 2.47 seconds
+Third vector ShellSort took : 2.49 seconds
+Third vector ShellSort took : 2.43 seconds
+Third vector ShellSort took : 2.39 seconds
+Third vector ShellSort took : 2.38 seconds
+Third vector ShellSort took : 2.39 seconds
+Third vector ShellSort took : 2.40 seconds
+Third vector ShellSort took : 2.40 seconds
+Third vector ShellSort took : 2.41 seconds
+Third vector ShellSort took : 2.37 seconds
+Third vector ShellSort average time: 2.41 seconds
+
+Vector size: 16,000,000
+Third vector ShellSort took : 2.40 seconds
+Third vector ShellSort took : 2.39 seconds
+Third vector ShellSort took : 2.39 seconds
+Third vector ShellSort took : 2.38 seconds
+Third vector ShellSort took : 2.40 seconds
+Third vector ShellSort took : 2.40 seconds
+Third vector ShellSort took : 2.39 seconds
+Third vector ShellSort took : 2.39 seconds
+Third vector ShellSort took : 2.43 seconds
+Third vector ShellSort took : 2.40 seconds
+Third vector ShellSort average time: 2.40 seconds
+Third vector ShellSort total average time: 2.40 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 5.01 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 5.22 seconds
+Fourth vector ShellSort took : 5.12 seconds
+Fourth vector ShellSort took : 5.07 seconds
+Fourth vector ShellSort took : 5.05 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 5.00 seconds
+Fourth vector ShellSort average time: 5.04 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 5.05 seconds
+Fourth vector ShellSort took : 5.06 seconds
+Fourth vector ShellSort took : 5.00 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.95 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.96 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.94 seconds
+Fourth vector ShellSort took : 4.97 seconds
+Fourth vector ShellSort average time: 4.99 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 4.95 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.97 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 4.97 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 5.02 seconds
+Fourth vector ShellSort average time: 4.98 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 5.05 seconds
+Fourth vector ShellSort took : 4.98 seconds
+Fourth vector ShellSort took : 4.96 seconds
+Fourth vector ShellSort took : 5.01 seconds
+Fourth vector ShellSort took : 4.97 seconds
+Fourth vector ShellSort took : 5.00 seconds
+Fourth vector ShellSort took : 4.96 seconds
+Fourth vector ShellSort took : 5.00 seconds
+Fourth vector ShellSort took : 5.09 seconds
+Fourth vector ShellSort took : 5.01 seconds
+Fourth vector ShellSort average time: 5.00 seconds
+
+Vector size: 32,000,000
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 5.00 seconds
+Fourth vector ShellSort took : 5.03 seconds
+Fourth vector ShellSort took : 5.02 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 5.01 seconds
+Fourth vector ShellSort took : 5.00 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort took : 4.99 seconds
+Fourth vector ShellSort average time: 5.00 seconds
+Fourth vector ShellSort total average time: 5.00 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 10.52 seconds
+Fifth vector ShellSort took : 10.33 seconds
+Fifth vector ShellSort took : 10.35 seconds
+Fifth vector ShellSort took : 10.36 seconds
+Fifth vector ShellSort took : 10.24 seconds
+Fifth vector ShellSort took : 10.22 seconds
+Fifth vector ShellSort took : 10.28 seconds
+Fifth vector ShellSort took : 10.33 seconds
+Fifth vector ShellSort took : 10.35 seconds
+Fifth vector ShellSort took : 10.31 seconds
+Fifth vector ShellSort average time: 10.33 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 10.42 seconds
+Fifth vector ShellSort took : 10.22 seconds
+Fifth vector ShellSort took : 10.22 seconds
+Fifth vector ShellSort took : 10.22 seconds
+Fifth vector ShellSort took : 10.24 seconds
+Fifth vector ShellSort took : 10.22 seconds
+Fifth vector ShellSort took : 10.32 seconds
+Fifth vector ShellSort took : 10.27 seconds
+Fifth vector ShellSort took : 10.40 seconds
+Fifth vector ShellSort took : 10.32 seconds
+Fifth vector ShellSort average time: 10.29 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 10.46 seconds
+Fifth vector ShellSort took : 10.66 seconds
+Fifth vector ShellSort took : 10.54 seconds
+Fifth vector ShellSort took : 10.33 seconds
+Fifth vector ShellSort took : 10.36 seconds
+Fifth vector ShellSort took : 10.28 seconds
+Fifth vector ShellSort took : 10.27 seconds
+Fifth vector ShellSort took : 10.30 seconds
+Fifth vector ShellSort took : 10.33 seconds
+Fifth vector ShellSort took : 10.35 seconds
+Fifth vector ShellSort average time: 10.39 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 10.29 seconds
+Fifth vector ShellSort took : 10.32 seconds
+Fifth vector ShellSort took : 10.31 seconds
+Fifth vector ShellSort took : 10.30 seconds
+Fifth vector ShellSort took : 10.32 seconds
+Fifth vector ShellSort took : 10.36 seconds
+Fifth vector ShellSort took : 10.33 seconds
+Fifth vector ShellSort took : 10.30 seconds
+Fifth vector ShellSort took : 10.27 seconds
+Fifth vector ShellSort took : 10.33 seconds
+Fifth vector ShellSort average time: 10.31 seconds
+
+Vector size: 64,000,000
+Fifth vector ShellSort took : 10.28 seconds
+Fifth vector ShellSort took : 10.24 seconds
+Fifth vector ShellSort took : 10.22 seconds
+Fifth vector ShellSort took : 10.32 seconds
+Fifth vector ShellSort took : 10.32 seconds
+Fifth vector ShellSort took : 10.28 seconds
+Fifth vector ShellSort took : 10.23 seconds
+Fifth vector ShellSort took : 10.25 seconds
+Fifth vector ShellSort took : 10.32 seconds
+Fifth vector ShellSort took : 10.28 seconds
+Fifth vector ShellSort average time: 10.27 seconds
+Fifth vector ShellSort total average time: 10.32 seconds
